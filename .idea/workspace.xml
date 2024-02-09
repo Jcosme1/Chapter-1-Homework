@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390a503c-aa2f-439e-bb2c-73eb6b733e6e" name="Changes" comment="I think im done with exercise 1 and im starting the second one">
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/Tester.java" afterDir="false" />
+    <list default="true" id="390a503c-aa2f-439e-bb2c-73eb6b733e6e" name="Changes" comment="trying to finish exercise 2 bit stuck on adding specific number element">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise3/Textbook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/Tester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Exercise2.Tester">
     <configuration name="Exercise2.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise2.Tester" />
@@ -47,6 +50,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise3.Tester" />
+      <module name="Chapter1Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercise3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,6 +86,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Exercise2.Tester" />
+        <item itemvalue="Application.Exercise3.Tester" />
         <item itemvalue="Application.Tester" />
       </list>
     </recent_temporary>
@@ -91,11 +108,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707452336112</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="trying to finish exercise 2 bit stuck on adding specific number element">
+      <option name="closed" value="true" />
+      <created>1707454727063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707454727063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I think im done with exercise 1 and im starting the second one" />
-    <option name="LAST_COMMIT_MESSAGE" value="I think im done with exercise 1 and im starting the second one" />
+    <MESSAGE value="trying to finish exercise 2 bit stuck on adding specific number element" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to finish exercise 2 bit stuck on adding specific number element" />
   </component>
 </project>
