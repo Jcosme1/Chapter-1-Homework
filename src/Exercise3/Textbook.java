@@ -36,7 +36,8 @@ public class Textbook {
    }
     //make a method to return half price of a textbook for a sale
     public String halfPrice(){
-       return "HALF PRICE "+": " +this.name  + "$"+price /2.0;
+       return "HALF PRICE "+": " +
+               this.name  + "$"+price /2.0;
    }
    public String toString(){
        return "Textbook: " + this.name + "$"+this.price + " " + this.whenItWasMade;

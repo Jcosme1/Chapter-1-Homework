@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="390a503c-aa2f-439e-bb2c-73eb6b733e6e" name="Changes" comment="trying to finish exercise 2 bit stuck on adding specific number element">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise3/Textbook.java" afterDir="false" />
+    <list default="true" id="390a503c-aa2f-439e-bb2c-73eb6b733e6e" name="Changes" comment="adding the second and last">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise3/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise3/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise3/Textbook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise3/Textbook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercise2.Tester">
+  <component name="RunManager" selected="Application.Exercise3.Tester">
     <configuration name="Exercise2.Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise2.Tester" />
       <module name="Chapter1Homework" />
@@ -85,8 +83,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise2.Tester" />
         <item itemvalue="Application.Exercise3.Tester" />
+        <item itemvalue="Application.Exercise2.Tester" />
         <item itemvalue="Application.Tester" />
       </list>
     </recent_temporary>
@@ -116,12 +114,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707454727063</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="adding the second and last">
+      <option name="closed" value="true" />
+      <created>1707506180534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707506180534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I think im done with exercise 1 and im starting the second one" />
     <MESSAGE value="trying to finish exercise 2 bit stuck on adding specific number element" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to finish exercise 2 bit stuck on adding specific number element" />
+    <MESSAGE value="adding the second and last" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding the second and last" />
   </component>
 </project>
